@@ -16,7 +16,7 @@ restart heimdall
 step3:
 ```
 start the both promethues and grafana containers
-##usage:
+usage:
 docker-compose up -d
 ```
 step4:

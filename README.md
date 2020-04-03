@@ -1,10 +1,6 @@
-# ram-ansible
-
 ## Heimdall Monitoring
 
 Monitor your Heimdall server with Prometheus and Grafana
-
-## Usage
 
 ## Follow below steps to set up monitoring on heimdall
 

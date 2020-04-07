@@ -84,3 +84,12 @@ Grafana uses web based APIs to connect to prometheus server for indexed data. Fo
 5. Notice Heimdall-Dashboard loaded as below
 
      ![Screenshot 2020-04-03 at 5 46 49 PM](https://user-images.githubusercontent.com/31979627/78359855-78980780-75d3-11ea-8cdf-8db0cb5ac4cc.png)
+
+6. Notice Bor-Dashboard loaded as below
+     
+     ![Screenshot 2020-04-07 at 1 23 47 PM](https://user-images.githubusercontent.com/31979627/78644246-33c1e880-78d3-11ea-9073-afe8077ab917.png)
+     
+7. Notice Node-Dashboard loaded as below
+
+     ![Screenshot 2020-04-07 at 1 23 18 PM](https://user-images.githubusercontent.com/31979627/78644461-89969080-78d3-11ea-9123-8587653c9d9a.png)
+     

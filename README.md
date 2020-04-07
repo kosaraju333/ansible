@@ -1,8 +1,8 @@
-# Heimdall Monitoring
+# Matic nodes Monitoring
 
-Monitor your Heimdall node with Prometheus and Grafana
+Monitor your Heimdall, Bor and Virtual machine nodes with Prometheus and Grafana
 
-## Follow below steps to set up monitoring on heimdall
+## Follow below steps to set up monitoring on heimdall, Bor and Virtual machine
 
 **Step 1:**
 
